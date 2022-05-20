@@ -1,0 +1,5 @@
+Indicator 1 --> Research and development expenditures (% of GDP)
+Indicator 2 --> High-technology exports (% of manufactured exports)
+Indicator 3 --> Patent applications, nonresidents
+Indicator 4 --> Patent applications, residents
+Indicator 5 --> Scientific and technical journal articles
