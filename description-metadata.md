@@ -10,7 +10,7 @@
  "The connections set up to a database from a server"
  
  The data was compiled by the World Bank (https://data.worldbank.org/indicator/) and is comprised from several sources listed below.
- We scraped it in CSV files after connection an API to the World Bank Database using Python and the Pandas, Matplotlib & Wbgapi wrappers.
+ We scraped it in CSV files after connection an API to the World Bank Database using Python and the Wbgapi wrappers.
  The CSV files were then processed and analysed in SQL so as to create a composite indicator.
 
 - Research and development expenditure (% of GDP)
