@@ -7,7 +7,7 @@
 
 ## Description 
 
-We created a compositite indicator from R&D and economic statistics.
+We created a composite indicator from R&D and economic statistics.
 
 The data was scraped from the World Bank database via an API wrapper.
 
